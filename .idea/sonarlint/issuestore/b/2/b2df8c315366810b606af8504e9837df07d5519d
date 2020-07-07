@@ -1,0 +1,6 @@
+
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÏïÎýÿÿÿÿ8ô†¾±.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Úú°Êûÿÿÿÿ8„û­¾±.
+Nsquid:S1481"+Remove this unused "liming" local variable.(”ŸîÚøÿÿÿÿ8Ä¯Ê¾±.
+]squid:S1854":Remove this useless assignment to local variable "liming".(”ŸîÚøÿÿÿÿ8Ä¯Ê¾±.
