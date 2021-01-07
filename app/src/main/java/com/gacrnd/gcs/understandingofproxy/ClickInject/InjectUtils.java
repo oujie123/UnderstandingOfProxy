@@ -9,8 +9,6 @@ import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
 
-import javax.net.ssl.TrustManagerFactory;
-
 /**
  * @author Jack_Ou  created on 2020/7/7.
  */
